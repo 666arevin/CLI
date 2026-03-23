@@ -9,13 +9,13 @@ git clone https://github.com/666arevin/rock_paper_scissors.git
 
 ### 2. Запуск
 
-Вариант 1
-
-Для запуска игры запустите файл: start_game
-
-Вариант 2
-
-Для запуска через Python выполните команду:
+  Вариант 1
+  
+  Для запуска игры запустите файл: start_game
+  
+  Вариант 2
+  
+  Для запуска через Python выполните команду:
 
 ```bash
 python "<путь_к_файлу>/app/start.py"
